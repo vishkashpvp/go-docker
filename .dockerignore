@@ -1,0 +1,4 @@
+# Files and directories commonly excluded in Docker images
+
+.git/
+.env
